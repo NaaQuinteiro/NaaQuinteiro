@@ -1,4 +1,4 @@
-# Hii, I'm  Thayná ☀ 🌙
+# Hii, I'm  Thayná 
 I'm an apprentice in Systems Development at Bosch.
 
 ## GitHub Stats:
