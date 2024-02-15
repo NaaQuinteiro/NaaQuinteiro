@@ -1,6 +1,5 @@
-# 💫 About Me:
+# Hii, I'm  Thayná ☀ 🌙
 I'm an apprentice in Systems Development at Bosch.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thayn%C3%A1-quinteiro-979005261/) 
@@ -14,6 +13,7 @@ I'm an apprentice in Systems Development at Bosch.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NaaQuinteiro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NaaQuinteiro&icon=0&color=0)](https://visitcount.itsvg.in)
