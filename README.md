@@ -1,5 +1,6 @@
 # Hii, I'm  Thayná 
 I'm an apprentice in Systems Development at Bosch.
+<img src=" https://i.pinimg.com/originals/14/f8/96/14f896d65f9a04878ea5fcb1c4849ac7.gif"/>
 
 ## GitHub Stats:
 <div>
@@ -7,7 +8,8 @@ I'm an apprentice in Systems Development at Bosch.
   <img/> 
   <img/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaaQuinteiro&layout=compact&langs_count=16&theme=radical"/>
-  <img height="180em" src="https://clipground.com/images/animal-gif-png-17.gif"/>
+  <img height="90em" src="https://clipground.com/images/animal-gif-png-17.gif"/>
+ 
 </div>
 
 ## 💻 Tech Stack:
