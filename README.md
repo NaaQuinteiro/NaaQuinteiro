@@ -9,7 +9,7 @@ I'm an apprentice in Systems Development at Bosch.
   <img/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaaQuinteiro&layout=compact&langs_count=16&theme=radical"/>
   <img height="180em" src="https://clipground.com/images/animal-gif-png-17.gif"/>
-  <img height="180em" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1483.gif"/>
+<!--   <img height="180em" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1483.gif"/> -->
  
  
 </div>
