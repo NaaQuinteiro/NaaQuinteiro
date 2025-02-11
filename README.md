@@ -1,5 +1,5 @@
 # Hii, I'm  Thayná 
-I'm an apprentice in Systems Development at Bosch.
+I'm a trainee in Systems Development at Bosch.
 <br><img height="200em" src="https://i.imgur.com/oq5zRRi.gif"/>
 
 ## GitHub Stats:
