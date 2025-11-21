@@ -1,5 +1,5 @@
-# Hii, I'm  Thayná 
-I'm a trainee in Systems Development at Bosch.
+# Hello, I'm  Thayná Quinteiro
+I'm a Systems Development Technician at Bosch.
 <br><img height="200em" src="https://i.imgur.com/oq5zRRi.gif"/>
 
 ## GitHub Stats:
